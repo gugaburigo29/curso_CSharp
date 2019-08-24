@@ -1,0 +1,15 @@
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\bin\Debug\AppWinForms.exe.config
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\bin\Debug\AppWinForms.exe
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\bin\Debug\AppWinForms.pdb
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.csprojAssemblyReference.cache
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.Properties.Resources.resources
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.csproj.GenerateResource.cache
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.exe
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.pdb
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.UserControl1.resources
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.CadastroVeiculo.resources
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.FormPrincipal.resources
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\bin\Debug\Class1.dll
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\bin\Debug\Class1.pdb
+C:\Users\lab102a\source\repos\AppWinForms\AppWinForms\obj\Debug\AppWinForms.csproj.CopyComplete

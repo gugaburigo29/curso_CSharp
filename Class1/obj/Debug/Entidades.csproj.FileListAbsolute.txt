@@ -1,0 +1,6 @@
+C:\Users\lab102a\source\repos\AppWinForms\Class1\bin\Debug\Class1.dll
+C:\Users\lab102a\source\repos\AppWinForms\Class1\bin\Debug\Class1.pdb
+C:\Users\lab102a\source\repos\AppWinForms\Class1\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lab102a\source\repos\AppWinForms\Class1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\AppWinForms\Class1\obj\Debug\Class1.dll
+C:\Users\lab102a\source\repos\AppWinForms\Class1\obj\Debug\Class1.pdb
